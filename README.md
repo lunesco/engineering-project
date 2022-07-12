@@ -1,3 +1,2 @@
-# magisterka
-Dokument pracy magisterskiej napisany w LaTeXu
 # engineering-project
+Document of engineering project written in LaTeX
